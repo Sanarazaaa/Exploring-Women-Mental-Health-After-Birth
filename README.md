@@ -1,4 +1,4 @@
-# Exploring-Women-Mental-Health-After-Birth
+# Exploring Women Mental Health After Giving Birth
 
 This project involves the analysis of a maternal health dataset to explore factors that contribute to postpartum depression and bonding between mothers and their children. The dataset includes information on age, BMI, blood pressure, complications, and bonding scores, among other variables.
 
